@@ -5,8 +5,9 @@
 
 This project stands on the shoulders of giants. Special thanks to:
 
-* **[Shauninman]([https://github.com](https://github.com/shauninman)):** For the incredible base architecture of MinUI.
-* **[JELOS Team / Just Enough Linux OS]([https://github.com)](https://github.com/JustEnoughLinuxOS):** For their major contributions to the underlying system code, scripts, and hardware optimization that made this fork possible on the RGB30.
+* **[Shauninman](https://github.com/shauninman):** For the incredible base architecture of MinUI.
+* **[JELOS Team / Just Enough Linux OS](https://github.com/JustEnoughLinuxOS):** For their major contributions to the underlying system code, scripts, and hardware optimization that made this fork possible on the RGB30.
+
 
 # MaxUI
 
