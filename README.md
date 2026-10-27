@@ -37,11 +37,9 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 
 
 <table>
-  <!-- Fila del Título (Ocupa las 2 columnas) -->
   <tr>
     <th colspan="3" align="center">RetroAchievements</th>
   </tr>
-  <!-- Fila de las Imágenes -->
   <tr>
     <td align="center">
     <img width="360" height="360" alt="20261027-034330" src="https://github.com/user-attachments/assets/beae4132-3290-435b-a0ef-ac3a0e68f70d" />
@@ -54,11 +52,11 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 </table>
 
 <table>
-  <!-- Fila del Título (Ocupa las 2 columnas) -->
+
   <tr>
     <th colspan="3" align="center">Music Player & Image Viewer</th>
   </tr>
-  <!-- Fila de las Imágenes -->
+
   <tr>
     <td align="center">
    <img width="360" height="360" alt="20261026-184146" src="https://github.com/user-attachments/assets/b7107aed-4593-48c6-b7c7-ec5dc21d9306" />
@@ -71,16 +69,23 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
   </tr>
 </table>
 
+> [!TIP]
+> The Player plays MP3s and displays images from the "Music" and "Screenshots" folders located in the root directory of the SD card in slot 2.
+
 | MinUI Mode | Pico-8 Mode | RA Mode |
 | --------- | --------- | --------- |
 | <img width="360" height="360" alt="20261023-035832" src="https://github.com/user-attachments/assets/3bd49446-d325-4d47-8bbd-6ae5bb991171" />| <img width="360" height="360" alt="20261026-183944" src="https://github.com/user-attachments/assets/00a752f0-4a5c-4f54-834f-71574eeb904f" />| <img width="360" height="360" alt="20261026-185144" src="https://github.com/user-attachments/assets/6f6769f0-0178-4f5b-ac29-4df5264e3b77" />|
+> [!NOTE]
+>  - **MinUI:**  Classic homescreen view.
+>  - **Pico-8:**  Automatic download of favorite games from Splore, displayed on the home screen in a grid view. 
+>  - **RA:**  RetroAchievements profile information.
 
 <table>
-  <!-- Fila del Título (Ocupa las 2 columnas) -->
+
   <tr>
     <th colspan="3" align="center">Options</th>
   </tr>
-  <!-- Fila de las Imágenes -->
+
   <tr>
     <td align="center">
    <img width="360" height="360" alt="20261026-183831" src="https://github.com/user-attachments/assets/d6f971ba-eeaf-4b0c-b939-fc8ec98b7e77" />
@@ -95,11 +100,11 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 </table>
 
 <table>
-  <!-- Fila del Título (Ocupa las 2 columnas) -->
+
   <tr>
     <th colspan="3" align="center">HTTP File Transfer</th>
   </tr>
-  <!-- Fila de las Imágenes -->
+
   <tr>
     <td align="center">
    <img width="722" height="503" alt="Captura de pantalla 2026-10-26 a la(s) 6 47 40 PM@2x" src="https://github.com/user-attachments/assets/1d249d35-31b6-4dec-b3ee-995dfe8a5152" />
