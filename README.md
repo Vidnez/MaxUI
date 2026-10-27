@@ -1,6 +1,12 @@
 
 <img width="720" height="200" alt="logomaxui" src="https://github.com/user-attachments/assets/a30600ae-5d68-4cd7-a706-1d869885a7a4" />
 
+## Credits & Attribution
+
+This project stands on the shoulders of giants. Special thanks to:
+
+* **[Shauninman](https://github.com):** For the incredible base architecture of MinUI.
+* **[JELOS Team / Just Enough Linux OS](https://github.com):** For their major contributions to the underlying system code, scripts, and hardware optimization that made this fork possible on the RGB30.
 
 # MaxUI
 
