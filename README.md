@@ -135,3 +135,6 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
    >* To enable it, navigate to `Connectivity` > `Wi-Fi` > `File Transfer`.
    >* Once activated, press **(A)** to view the connection details and access it from your computer's browser.
 
+> [!TIP]
+> #### Adding Cheats
+>To add cheats to your games, simply extract the `Cheats.zip` file directly to the root directory of the **Slot 2 SD card**.
