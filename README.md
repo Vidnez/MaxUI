@@ -14,18 +14,19 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 ## Features
 
 - Game Switcher
-- Cheats support
+- Cheat support
 - RetroAchievements (online and offline)
 - Music Player
 - File transfer via SSH and HTTP
 - Minarch-style menu for Pico-8 and Nintendo DS
 - Mouse emulation for Pico-8
-- MinUI Sleep and auto-resume support for all systems 
-- Home screen with sections for "MinUI," "RetroAchievements," and "Pico-8"
-- Screenshots
+- MinUI Sleep and auto-resume support for all systems
+- Home screen with dedicated sections for MinUI, RetroAchievements, and Pico-8
+- Screenshot viewer
 - Automatic time sync
-- Bluetooth audio
-- Savestates Manager
+- Bluetooth audio support
+- Save State Manager
+
 
 
 
@@ -70,15 +71,15 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 </table>
 
 > [!TIP]
-> The Player plays MP3s and displays images from the "Music" and "Screenshots" folders located in the root directory of the SD card in slot 2.
+> The Media Player runs MP3s and images from the "Music" and "Screenshots" folders on the SD card in slot 2.
 
 | MinUI Mode | Pico-8 Mode | RA Mode |
 | --------- | --------- | --------- |
 | <img width="360" height="360" alt="20261023-035832" src="https://github.com/user-attachments/assets/3bd49446-d325-4d47-8bbd-6ae5bb991171" />| <img width="360" height="360" alt="20261026-183944" src="https://github.com/user-attachments/assets/00a752f0-4a5c-4f54-834f-71574eeb904f" />| <img width="360" height="360" alt="20261026-185144" src="https://github.com/user-attachments/assets/6f6769f0-0178-4f5b-ac29-4df5264e3b77" />|
 > [!NOTE]
->  - **MinUI:**  Classic homescreen view.
->  - **Pico-8:**  Automatic download of favorite games from Splore, displayed on the home screen in a grid view. 
->  - **RA:**  RetroAchievements profile information.
+>  - **MinUI:**  Classic home screen layout.
+>  - **Pico-8:**  Automatically downloads your favorite Splore games and shows them in a grid. 
+>  - **RA:**  Your RetroAchievements profile details.
 
 <table>
 
