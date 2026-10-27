@@ -117,3 +117,21 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
     <img width="722" height="503" alt="Captura de pantalla 2026-10-26 a la(s) 6 48 34 PM@2x" src="https://github.com/user-attachments/assets/57655765-1554-42dc-8471-f53eafbe34f6" />
 
 </table>
+
+> [!IMPORTANT]
+> ## Installation
+> 1. **Format the Slot 1 SD card** and flash the `MOSS-RGB30-MaxUI.img.gz` image using a tool like **Balena Etcher**.
+> 2. **Format the Slot 2 SD card** and copy the `MaxUI.zip` file to its root directory. (Also, add your copy of the Raspberry Pi version of the Pico-8 `.zip` file, purchased from [Lexaloffle](https://lexaloffle.com), to the root directory).
+> 3. **Insert both SD cards** into the console and power it on. The installation process may take a few minutes, and the console will reboot automatically.
+> 4. **Once on the home screen**, you can start configuring the frontend by pressing **L3** or **R3** to access the **MaxUI Options** menu.
+
+---
+> [!NOTE]
+>#### Setting up RetroAchievements (RA Mode)
+>To use RA Mode, you need to configure your internet connection and account details:
+>1. **Connect to Wi-Fi:** Go to `Connectivity` > `Wi-Fi` and set up your network.
+>2. **Link your Account:** Go to the `RetroAchievements` menu and configure your profile.
+>3. **Enter your API Key:** You must enter your RetroAchievements API key via the web-based File Transfer tool.
+   >* To enable it, navigate to `Connectivity` > `Wi-Fi` > `File Transfer`.
+   >* Once activated, press **(A)** to view the connection details and access it from your computer's browser.
+
