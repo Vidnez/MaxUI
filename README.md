@@ -1,5 +1,6 @@
-
+<div align="center">
 <img width="720" height="200" alt="logomaxui" src="https://github.com/user-attachments/assets/a30600ae-5d68-4cd7-a706-1d869885a7a4" />
+</div>
 
 # MaxUI
 
