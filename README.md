@@ -129,6 +129,7 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 > 2. **Format the Slot 2 SD card** and copy the `MaxUI.zip` file to its root directory. (Also, add your copy of the Raspberry Pi version of the Pico-8 `.zip` file, purchased from [Lexaloffle](https://lexaloffle.com), to the root directory).
 > 3. **Insert both SD cards** into the console and power it on. The installation process may take a few minutes, and the console will reboot automatically.
 > 4. **Once on the home screen**, you can start configuring the frontend by pressing **L3** or **R3** to access the **MaxUI Options** menu.
+> 5. Make sure your ROMs are **unzipped and extracted** to their correct extensions. The only exception is **Arcade**, those need to stay in .**zip** format.
 
 ---
 > [!NOTE]
