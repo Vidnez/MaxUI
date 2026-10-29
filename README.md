@@ -25,6 +25,9 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 - Automatic time sync
 - Bluetooth audio support
 - Save State Manager
+- Automatically sleeps after 30 seconds or press POWER to sleep (and wake)
+- Automatically powers off while asleep after two minutes or hold POWER for one second
+- Automatically resumes right where you left off if powered off while in-game, manually or while asleep
 
 
 
@@ -116,6 +119,9 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
     <img width="722" height="503" alt="Captura de pantalla 2026-10-26 a la(s) 6 48 34 PM@2x" src="https://github.com/user-attachments/assets/57655765-1554-42dc-8471-f53eafbe34f6" />
 
 </table>
+
+<img width="1100" height="1100" alt="controls" src="https://github.com/user-attachments/assets/1754ab1c-57b2-4145-8836-936ced9f5d66" />
+
 
 > [!IMPORTANT]
 > ## Installation
