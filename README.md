@@ -19,7 +19,6 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 - File transfer via SSH and HTTP
 - Minarch-style menu for Pico-8 and Nintendo DS
 - Mouse emulation for Pico-8
-- MinUI Sleep and auto-resume support for all systems
 - Home screen with dedicated sections for MinUI, RetroAchievements, and Pico-8
 - Screenshot viewer
 - Automatic time sync
