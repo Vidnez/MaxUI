@@ -131,7 +131,7 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 
 </table>
 
-<img width="1100" height="1150" alt="controls" src="https://github.com/user-attachments/assets/56b25224-3101-4e1f-ad9c-c23ded4839c5" />
+<img width="1100" height="1150" alt="controls" src="https://github.com/user-attachments/assets/3d7f4bfd-a5ef-4a05-b353-7f06de4044e0" />
 
 
 > [!IMPORTANT]
