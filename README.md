@@ -19,6 +19,7 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
 - Music Player
 - File transfer via SSH and HTTP
 - Minarch-style menu for Pico-8 and Nintendo DS
+- Pico-8 save states
 - Mouse emulation for Pico-8
 - Home screen with dedicated sections for MinUI, RetroAchievements, and Pico-8
 - Screenshot viewer
@@ -72,9 +73,18 @@ MaxUI is a reinterpretation of MinUI for the RGB30.
     <img width="360" height="360" alt="20261027-004334" src="https://github.com/user-attachments/assets/5464336b-3d27-4ec3-afbc-8d84b5f6ec4c" />
   </tr>
 </table>
+<table>
+ <tr>
+    <th colspan="1" align="center">Music Player Visualizers</th>
+  </tr>
+  <td align="center">
+   <img width="1500" height="260" alt="out" src="https://github.com/user-attachments/assets/75faeb00-4176-4352-84a5-91eba42bb5ac" />
+   </td>
+</table>
+
 
 > [!TIP]
-> The Media Player runs MP3s and images from the "Music" and "Screenshots" folders on the SD card in slot 2.
+> The Media Player runs MP3s, Audiobooks and images from the "Music" "Audiobooks" and "Screenshots" folders on the SD card in slot 2.
 
 | MinUI Mode | Pico-8 Mode | RA Mode |
 | --------- | --------- | --------- |
